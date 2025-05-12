@@ -1,0 +1,26 @@
+{
+  "name": "hello-prisma-git",
+  "version": "1.0.0",
+  "description": "hello prisma project from prisma documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussainhamid/hello-prisma-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussainhamid/hello-prisma-git/issues"
+  },
+  "homepage": "https://github.com/hussainhamid/hello-prisma-git#readme",
+  "devDependencies": {
+    "prisma": "^6.7.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.7.0"
+  }
+}
